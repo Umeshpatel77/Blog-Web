@@ -1,7 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-  background: url("C:/Users/Admin/Documents/Blog site/Blog-Website/info/img/bg.jpg") no-repeat;
+  background: url("./img/bg.jpg") no-repeat;
   background-size: cover;
 }
 .box{

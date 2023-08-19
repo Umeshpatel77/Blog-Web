@@ -10,7 +10,7 @@ body {
 	margin: auto;
 }
 header {
-	background-image: url("C:/Users/Admin/Documents/Blog site/Blog-Website/home img/bk.jpg");
+	background-image: url("./home img/bk.jpg");
 	height: 100vh;
 	background-size:100%;
 }
